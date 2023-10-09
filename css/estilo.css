@@ -1,0 +1,15 @@
+.botao {
+    padding: 20px;
+    text-align: center;
+    color: black;
+    background:#ffc107;
+    border-radius: 50px;
+    color: aliceblue;
+    width: 150px;
+   
+}
+.resultado-calculo{
+    background-color: #ffc107;
+    display: flex;
+    flex-direction: column;
+    
